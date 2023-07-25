@@ -10,10 +10,10 @@
   },
   "dependencies": {
     "vue": "^3.3.4",
-    "pouchdb": "^0.1",
-    "pouchdb-browser": "^0.1",
-    "pouchdb-find": "^0.1",
-    "pouchdb-live-find": "^0.1"
+    "pouchdb": "^8.0.1",
+    "pouchdb-browser": "^8.0.1",
+    "pouchdb-find": "^8.0.1",
+    "pouchdb-live-find": "^8.0.1"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^4.2.3",
