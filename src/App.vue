@@ -1,4 +1,6 @@
 <script setup>
+import crypto from 'crypto-browserify'
+import { Buffer } from 'buffer/' // <-- no typo here ("/")
 import HelloWorld from './components/HelloWorld.vue'
 </script>
 
